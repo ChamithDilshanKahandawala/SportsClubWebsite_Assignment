@@ -1,0 +1,45 @@
+*{
+    background-color:  #e6ecff;
+
+}
+
+h1 {
+    text-align: center;
+    font-size:70px ;
+}
+
+td {
+    font-size: 25px;
+    
+}
+
+tr{
+    padding: 1px;
+    margin-top: 10px;
+    height: 40px;
+}
+
+.TextBox{
+    width: 500px;
+    height: 30px;
+}
+
+.Btn{
+    font-size: 18px;
+
+}
+
+.SportsT{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SportT1{
+    border: 1px solid;
+    width: 1000px;
+
+     
+}
+.Selector{
+    font-size: 22px;
+}

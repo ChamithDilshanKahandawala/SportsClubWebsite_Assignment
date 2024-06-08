@@ -1,0 +1,67 @@
+*{
+    background-color:  #e6ccff;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-size:80px ;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+}
+
+h3 {
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.ol1Style{
+    font-weight: 600;
+    font-size: 27px;
+}
+
+.ulStyle{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+table,th,td {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    
+}
+
+.endImg{
+    width: 90px;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    
+}
+.endPg2{
+    text-align: center;
+    
+}
+
+.row {
+    display: flex;
+    border: none;
+}
+
+.column{
+    flex: 50%;
+    padding: 10px;
+    border: none;
+}
+
